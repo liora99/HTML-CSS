@@ -1,0 +1,102 @@
+body
+{
+	/*width: 50%; */
+	background : url("fond_d'ecran.jpeg") fixed, url("windows.jpeg") fixed top right  ;
+}
+
+h1, .herzliya  /* j'ai changé le microsoft corporation et le premier paragraphe ou il y avait écrit hertzelia en blanc */
+{
+	color : white;
+}
+
+.herzliya
+ {
+ 	text-decoration:underline ;
+ 	opacity:0.7;
+ }
+
+ h1
+ {
+ 	opacity:0.9;
+ }
+
+ .change
+ {
+ 	font-weight:bold ;
+ }
+
+.pol
+{
+	font-size: 0.3em;
+}
+ 
+  .bord
+ {
+    font-size: 1.3em;
+ 	background-color:#515756;
+ 	border-radius: 20px / 10px;
+ 	color: white;
+ }
+
+
+ h2
+ {
+ 	font-size: 0.7em;
+ 	font-weight:normal;
+ 	background-color:#dde6e4;
+ 	color : black;
+ 	border: 5px #21bda1 dashed;
+ }
+
+.rouge
+{
+	border: 3px red solid ;
+}
+
+.vert
+{
+  border: 3px #11e845 solid ;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #000000;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid #000;
+}
+
+.w_dot
+{
+  height: 10px;
+  width: 10px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid #000;
+}
+
+.conteneur1
+{
+	display: flex;
+	flex-direction:  row;
+	justify-content: space-around;
+	height: 750px;
+}
+
+.conteneur2
+{
+  display: flex;
+  flex-direction:  column;
+  justify-content: space-around;
+  height: 750px;
+}
+
+.conteneur3
+{
+  display: flex;
+  flex-direction:  column;
+  justify-content: space-around;
+  height: 750px;
+}
