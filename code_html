@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel= "stylesheet" href="mon_code_css.css"
+        <title></title>
+    </head>
+
+<body>
+    <div class= "conteneur1">
+<div class="conteneur2">
+    <div class="rouge">
+     <h1> Microsoft Corporation </h1>
+     <p class="herzliya">   Herzliya, Israel  <hr />  </p>
+
+     <div> 
+     <h2> 
+        <p class="bord">  EXPERIENCE </p>
+     <p> <span class="change"> ASP.NET 5  </span> |    TEAMLEADER   |    2020-2021 <br/>
+     Explain the job that you have done and the results that you have got! </p>
+     <p> <span class="change">ASP.NET 3.0 </span>|    TEAMLEADER   |    2019-2020 <br/> 
+     Explain the job that you have done and the results that you have got! </p> 
+     <p> <span class="change">ASP.NET 2.0 </span>|    TEAMLEADER   |    2018-2019 <br/> 
+     Explain the job that you have done and the results that you have got! </p> 
+    </h2>
+</div>
+</div>
+<div>
+     <h2> 
+        <p class="bord">  FORMATION </p>
+     <p> <span class="change"> DEGREE </span>|    UNIVERSITY   |    2017 - 2018 <br/>
+     Explain the formation's specificities: your degree,options, ... </p>
+     <p> <span class="change"> DEGREE </span>|    UNIVERSITY   |    2016 - 2017 <br/>
+     Explain the formation's specificities: your degree,options, ... </p>
+      <p> <span class="change"> DEGREE </span>|    UNIVERSITY   |    2016 - 2017 <br/>
+     Explain the formation's specificities: your degree,options, ... </p>
+    </h2>
+</div>
+
+ <div>
+     <h2> 
+        <p class="bord">  HOBBIES </p>
+     <p> Explain the formation's specificities: your degree,options, ... </p>
+    </h2>
+</div>
+
+</div>
+
+<div class="conteneur3">
+
+ <div>
+     <h2> 
+        <p class="bord">  PROFILE </p>
+     <p> Explain in few line your professional training, your capabilities and your carrer's objectives. </p>
+    </h2>
+
+ 
+ <div class="vert">
+     <h2> 
+        <p class="bord">  SKILL </p>
+     <p> Web <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span> </p>
+     <p> UI/UX Design <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span></p>
+     <p> ASP.NET CORE <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span> </p>
+     <p> MS SQL <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span></p>
+     <p> Github <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span></p>
+    </h2>
+</div>
+
+ <div>
+     <h2> 
+        <p class="bord">  PERSONALITY </p>
+     <p> Reactive <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span> </p>
+     <p> Ambitious <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span></p>
+     <p> ASP.NET CORE <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span> </p>
+     <p> Creative <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span></p>
+     <p> Reliable <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span></p>
+    </h2>
+</div>
+
+ <div>
+     <h2> 
+        <p class="bord">  LANGUAGES </p>
+     <p> Hebrew <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span> </p>
+     <p> English <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span></p>
+     <p> French <span class="dot"> </span> <span class="dot"> </span>    <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="dot"> </span> <span class="w_dot"> </span> <span class="w_dot"> </span> </p>
+    </h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body> 
+</html>
